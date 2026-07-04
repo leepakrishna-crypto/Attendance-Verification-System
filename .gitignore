@@ -1,0 +1,35 @@
+# Node dependency folders
+node_modules/
+
+# Local configuration files containing credentials/secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Trainer uploaded check-in and check-out photos
+backend/uploads/*
+!backend/uploads/.gitkeep
+
+# Frontend production build output
+frontend/dist/
+
+# Logs and lockfiles
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

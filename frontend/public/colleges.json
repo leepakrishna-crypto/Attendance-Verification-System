@@ -1,0 +1,557 @@
+[
+  {
+    "name": "Rachana Industrial Training Centre K.R Pet",
+    "city": "K.R Pet",
+    "address": "K.R Pet, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Tagadur",
+    "city": "Tagadur",
+    "address": "Tagadur, Karnataka"
+  },
+  {
+    "name": "Sri Adichunchanagiri Industrial Training Centre Channarayapattana",
+    "city": "Channarayapattana",
+    "address": "Channarayapattana, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Hatkanangle, Taluka: Hatkanangle, District: Kolhapur",
+    "city": "Hatkanangle",
+    "address": "Taluka: Hatkanangle, District: Kolhapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Panhala, Taluka: Panhala, District: Kolhapur",
+    "city": "Panhala",
+    "address": "Taluka: Panhala, District: Kolhapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Lonand, Taluka: Khandala, District: Satara",
+    "city": "Lonand",
+    "address": "Taluka: Khandala, District: Satara, Maharashtra"
+  },
+  {
+    "name": "Kakatiya (Private) Industrial Training Institute",
+    "city": "Institute",
+    "address": "Institute, Karnataka"
+  },
+  {
+    "name": "Siddeshwara Private Industrial Training Institute, Hassan",
+    "city": "Hassan",
+    "address": "Hassan, Karnataka"
+  },
+  {
+    "name": "Sri Manjunatheshwara Industrial Training Centre",
+    "city": "Centre",
+    "address": "Centre, Karnataka"
+  },
+  {
+    "name": "Vidyavardhaka Sangha Industrial Training Institute, III Stage Gokulam, Mysore",
+    "city": "Mysore",
+    "address": "III Stage Gokulam, Mysore, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Motebennur",
+    "city": "Motebennur",
+    "address": "Motebennur, Karnataka"
+  },
+  {
+    "name": "Malavalli Boys Home Industrial Training Institute",
+    "city": "Malavalli",
+    "address": "Malavalli, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Udayapura, Channrayapattna Tq , Hassan",
+    "city": "Hassan",
+    "address": "Hassan, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Mahabaleshwar, Taluka: Mahabaleshwar, District: Satara",
+    "city": "Mahabaleshwar",
+    "address": "Taluka: Mahabaleshwar, District: Satara, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Gadhinglaj, Taluka: Gadhinglaj, District: Kolhapur",
+    "city": "Gadhinglaj",
+    "address": "Taluka: Gadhinglaj, District: Kolhapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Wai, Taluka: Wai, District: Satara",
+    "city": "Wai",
+    "address": "Taluka: Wai, District: Satara, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute B.M Road, Hassan",
+    "city": "Hassan",
+    "address": "B.M. Road, Hassan, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Turkewadi, Taluka: Chandgad, District: Kolhapur",
+    "city": "Turkewadi",
+    "address": "Taluka: Chandgad, District: Kolhapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Islampur, Taluka: Walwa, District: Sangli",
+    "city": "Islampur",
+    "address": "Taluka: Walwa, District: Sangli, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Shirala, Taluka: Shirala, District: Sangli",
+    "city": "Shirala",
+    "address": "Taluka: Shirala, District: Sangli, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute - Steel City",
+    "city": "Steel City",
+    "address": "Steel City, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute College, KM Doddi, Manigere",
+    "city": "KM Doddi",
+    "address": "KM Doddi, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute Bidar",
+    "city": "Bidar",
+    "address": "Bidar, Karnataka"
+  },
+  {
+    "name": "Mother Theresa Degree College",
+    "city": "College",
+    "address": "College, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute T.Narasipura",
+    "city": "T.Narasipura",
+    "address": "T.Narasipura, Karnataka"
+  },
+  {
+    "name": "Sri Sidhartha Industrial Training Centre Kunigal",
+    "city": "Kunigal",
+    "address": "Kunigal, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Khed (Rajgurunagar), Taluka: Khed, District: Pune",
+    "city": "Pune",
+    "address": "Taluka: Khed, District: Pune, Maharashtra"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Chikkakalya Village, Magadi Taluk",
+    "city": "Magadi",
+    "address": "Magadi, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute College, Kesturu",
+    "city": "Kesturu",
+    "address": "Kesturu, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute Ankola",
+    "city": "Ankola",
+    "address": "Ankola, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute Hospete",
+    "city": "Hospete",
+    "address": "Hospete, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Shahuwadi, Taluka: Shahuwadi, District: Kolhapur",
+    "city": "Shahuwadi",
+    "address": "Taluka: Shahuwadi, District: Kolhapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Malegaon Budruk, Taluka: Baramati, District: Pune",
+    "city": "Malegaon Budruk",
+    "address": "Taluka: Baramati, District: Pune, Maharashtra"
+  },
+  {
+    "name": "Mudhojirale Naik Nimbalkar Government Industrial Training Institute Phaltan Dist Satara",
+    "city": "Phaltan",
+    "address": "Phaltan, Maharashtra"
+  },
+  {
+    "name": "St Aloysius Industrial Training Institute - Gajuwaka",
+    "city": "Gajuwaka",
+    "address": "Gajuwaka, Andhra Pradesh"
+  },
+  {
+    "name": "Government Industrial Training Institute, Atpadi, Taluka: Atpadi, District: Sangli",
+    "city": "Atpadi",
+    "address": "Taluka: Atpadi, District: Sangli, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Sangli, Taluka: Miraj, District: Sangli",
+    "city": "Sangli",
+    "address": "Taluka: Miraj, District: Sangli, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Kadegaon, Taluka: Kadegaon, District: Sangli",
+    "city": "Sangli",
+    "address": "Taluka: Kadegaon, District: Sangli, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Vita, Taluka: Vita (Khanapur), District: Sangli",
+    "city": "Sangli",
+    "address": "Taluka: Vita (Khanapur), District: Sangli, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Murgud, Taluka: Kagal, District: Kolhapur",
+    "city": "Murgud",
+    "address": "Taluka: Kagal, District: Kolhapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Mohol, Taluka: Mohol, District: Solapur",
+    "city": "Mohol",
+    "address": "Taluka: Mohol, District: Solapur, Maharashtra"
+  },
+  {
+    "name": "Sphoorty Engineering College",
+    "city": "College",
+    "address": "College, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Ajara, Taluka: Ajara, District: Kolhapur",
+    "city": "Ajara",
+    "address": "Taluka: Ajara, District: Kolhapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Bhudargad (Gargoti), Taluka: Bhudargad, District: Kolhapur",
+    "city": "Bhudargad",
+    "address": "Taluka: Bhudargad, District: Kolhapur, Maharashtra"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, KIADB Industrial Estate, Hassan",
+    "city": "Hassan",
+    "address": "Hassan, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Kavthe Mahankal, Taluka: Kavthe Mahankal, District: Sangli",
+    "city": "Sangli",
+    "address": "Taluka: Kavthe Mahankal, District: Sangli, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Palus, Taluka: Palus, District: Sangli",
+    "city": "Sangli",
+    "address": "Taluka: Palus, District: Sangli, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute Dahiwadi Tal Man Dist Satara",
+    "city": "Dahiwadi",
+    "address": "Dahiwadi, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Kolhapur, Taluka: Karveer, District: Kolhapur",
+    "city": "Kolhapur",
+    "address": "Taluka: Karveer, District: Kolhapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Gaganbavada, Taluka: Gaganbavada, District: Kolhapur",
+    "city": "Kolhapur",
+    "address": "Taluka: Gaganbavada, District: Kolhapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Tasgaon, Taluka: Tasgaon, District: Sangli",
+    "city": "Sangli",
+    "address": "Taluka: Tasgaon, District: Sangli, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Karmala, Taluka: Karmala, District: Solapur",
+    "city": "Karmala",
+    "address": "Taluka: Karmala, District: Solapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Sangola",
+    "city": "Sangola",
+    "address": "Sangola, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute College Madduru",
+    "city": "Madduru",
+    "address": "Madduru, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Jat, Taluka: Jat, District: Sangli",
+    "city": "Sangli",
+    "address": "Taluka: Jat, District: Sangli, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Arasikere",
+    "city": "Arasikere",
+    "address": "Arasikere, Karnataka"
+  },
+  {
+    "name": "D Banumaiah Industrial Training Institute, Mysore",
+    "city": "Mysore",
+    "address": "Mysore, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Uppoor Village, Kolalgiri Post",
+    "city": "Uppoor",
+    "address": "Uppoor, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Lonavala, Taluka: Mawal, District: Pune",
+    "city": "Lonavala",
+    "address": "Taluka: Mawal, District: Pune, Maharashtra"
+  },
+  {
+    "name": "Shanthi Industrial Training Centre",
+    "city": "Centre",
+    "address": "Centre, Karnataka"
+  },
+  {
+    "name": "Bharat Ratna Industrial Training Centre",
+    "city": "Centre",
+    "address": "Centre, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Survey No.102, Nelagola Centre, Haveri - 581110",
+    "city": "Haveri",
+    "address": "Survey No.102, Nelagola Centre, Haveri, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Bengaluru-KGF Road, Kolar",
+    "city": "Kolar",
+    "address": "Kolar, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Gowribidanur, KIADB Industrial Area",
+    "city": "Gowribidanur",
+    "address": "KIADB Industrial Area, Gowribidanur, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Chikkodi, Nipani Road",
+    "city": "Chikkodi",
+    "address": "Chikkodi, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Channarayapatna Village, Devanahalli Taluk",
+    "city": "Devanahalli",
+    "address": "Devanahalli, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Akluj, Taluka: Malshiras, District: Solapur",
+    "city": "Akluj",
+    "address": "Taluka: Malshiras, District: Solapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute Karad",
+    "city": "Karad",
+    "address": "Karad, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Akkalkot, Taluka: Akkalkot, District: Solapur",
+    "city": "Akkalkot",
+    "address": "Taluka: Akkalkot, District: Solapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Kurduwadi, Taluka: Madha, District: Solapur",
+    "city": "Kurduwadi",
+    "address": "Taluka: Madha, District: Solapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Pandharpur, Taluka: Pandharpur, District: Solapur",
+    "city": "Pandharpur",
+    "address": "Taluka: Pandharpur, District: Solapur, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Barshi, Taluka: Barshi, District: Solapur",
+    "city": "Barshi",
+    "address": "Taluka: Barshi, District: Solapur, Maharashtra"
+  },
+  {
+    "name": "H M S Industrial Training Institute",
+    "city": "Institute",
+    "address": "Institute, Karnataka"
+  },
+  {
+    "name": "Field Marshal Sam Manekshaw Government Industrial Training Institute Mulshi Tal-Mulshi Pune",
+    "city": "Mulshi",
+    "address": "Mulshi, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Patan, Taluka: Patan, District: Satara",
+    "city": "Patan",
+    "address": "Taluka: Patan, District: Satara, Maharashtra"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, No:7E, Industrial Area, Baikampady, Mangalore - 575011",
+    "city": "Mangalore",
+    "address": "Industrial Area, Mangalore, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Dunduapura, Gundlupet",
+    "city": "Gundlupet",
+    "address": "Gundlupet, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, B.M. Road, Maddur",
+    "city": "Maddur",
+    "address": "B.M. Road, Maddur, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, KIADB Industrial Area",
+    "city": "Area",
+    "address": "KIADB Industrial Area, Area, Karnataka"
+  },
+  {
+    "name": "Thavaregere Industrial Training Institute College",
+    "city": "Thavaregere",
+    "address": "Thavaregere, Karnataka"
+  },
+  {
+    "name": "Siddhartha Industrial Training Centre Maralur",
+    "city": "Maralur",
+    "address": "Maralur, Karnataka"
+  },
+  {
+    "name": "Sree Siddaganga Industrial Training Centre, KB mutt",
+    "city": "KB mutt",
+    "address": "KB mutt, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute Bharma Sagar",
+    "city": "Bharma Sagar",
+    "address": "Bharma Sagar, Karnataka"
+  },
+  {
+    "name": "National Skill Training Institute Trichy",
+    "city": "Trichy",
+    "address": "Trichy, Tamil Nadu"
+  },
+  {
+    "name": "Government Industrial Training Institute, Medha, Taluka: Jaoli, District: Satara",
+    "city": "Jaoli",
+    "address": "Taluka: Jaoli, District: Satara, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute (Woman), Solapur, Taluka: Solapur North, District: Solapur",
+    "city": "Solapur",
+    "address": "Taluka: Solapur North, District: Solapur, Maharashtra"
+  },
+  {
+    "name": "J C S Industrial Training Institute Nelamangala",
+    "city": "Nelamangala",
+    "address": "Nelamangala, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute (W), Chitradurga",
+    "city": "Chitradurga",
+    "address": "Chitradurga, Karnataka"
+  },
+  {
+    "name": "BHS Industrial Training Institute",
+    "city": "Institute",
+    "address": "Institute, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, SarkariThota, Karadakal Route, Lingasugur - 584122",
+    "city": "Lingasugur",
+    "address": "Lingasugur, Maharashtra"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Nidhige, KIADB Industrial Area",
+    "city": "Area",
+    "address": "KIADB Industrial Area, Area, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Udyambag Industrial Estate",
+    "city": "Estate",
+    "address": "Estate, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Arabhavi, Gokak Taluk",
+    "city": "Gokak",
+    "address": "Gokak, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Kudalasangama, Hungund Taluk",
+    "city": "Hungund",
+    "address": "Hungund, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Humnabad",
+    "city": "Humnabad",
+    "address": "Humnabad, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Belagola Industrial Area, Mysore",
+    "city": "Mysore",
+    "address": "Industrial Area, Mysore, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Challakere Main Road, Challakere",
+    "city": "Challakere",
+    "address": "Challakere, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Kanakapura Road, Kanakapura",
+    "city": "Kanakapura",
+    "address": "Kanakapura, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Dadegal, Gadag Road",
+    "city": "Gadag",
+    "address": "Gadag, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Harihara, KIADB Industrial Area",
+    "city": "Harihara",
+    "address": "KIADB Industrial Area, Harihara, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Hirehalli Industrial Area, Tumkur",
+    "city": "Tumkur",
+    "address": "Industrial Area, Tumkur, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, KSIDC Industrial Estate, Dandeli",
+    "city": "Dandeli",
+    "address": "Dandeli, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Aundh, Taluka: Khatav, District: Satara",
+    "city": "Khatav",
+    "address": "Taluka: Khatav, District: Satara, Maharashtra"
+  },
+  {
+    "name": "Government Industrial Training Institute, Koregaon, Taluka: Koregaon, District: Satara",
+    "city": "Koregaon",
+    "address": "Taluka: Koregaon, District: Satara, Maharashtra"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Mariyammanahalli, Hospet Taluk",
+    "city": "Mariyammanahalli",
+    "address": "Mariyammanahalli, Karnataka"
+  },
+  {
+    "name": "Government Industrial Training Institute, Satara, Taluka: Satara, Dist.: Satara",
+    "city": "Satara",
+    "address": "Taluka: Satara, District: Satara, Maharashtra"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, Kadur, NH-206",
+    "city": "Kadur",
+    "address": "Kadur, Karnataka"
+  },
+  {
+    "name": "Government Tool Room & Training Centre, #122 & 123, Mahatma Basaveshwara Road, Darshanapura Layout, Santrasawadi, Kalabargi - 585101",
+    "city": "Kalabargi",
+    "address": "Kalabargi, Karnataka"
+  },
+  {
+    "name": "Sanjivani University, Maharashtra",
+    "city": "Kopargaon",
+    "address": "Kopargaon, Maharashtra"
+  },
+  {
+    "name": "Potti Sriramulu Chalavadi Mallikarjuna Rao College (PSCMR College of Engineering and Technology)",
+    "city": "Vijayawada",
+    "address": "Vijayawada, Andhra Pradesh"
+  },
+  {
+    "name": "Ethnus Consultancy Services, Jayanagar, Bengaluru",
+    "city": "Bengaluru",
+    "address": "Bengaluru, Karnataka"
+  }
+]
